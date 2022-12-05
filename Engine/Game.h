@@ -33,8 +33,8 @@ private:
 	/*  User Variables              */
 	static constexpr float brickWidth = 40.0f;
 	static constexpr float brickHeight = 22.0f;
-	static constexpr int nBricksAcross = 12;
-	static constexpr int nBricksDown = 4;
+	static constexpr int nBricksAcross = 20;
+	static constexpr int nBricksDown = 5;
 	static constexpr int nBricks = nBricksAcross * nBricksDown;
 	static constexpr float topSpace = brickHeight * 1.6f;
 	static constexpr float wallThickness = 12.0f;
